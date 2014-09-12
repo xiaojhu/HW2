@@ -35,7 +35,7 @@ h4 { font-size: 12pt;
 			margin-bottom: 25px;
 			text-align: center;
 		}
-.list { list-style: none;}
+.list { list-style: square;}
 		
 #centered { border: 2px solid gray; 
 			margin-left: auto; 
@@ -65,7 +65,7 @@ h4 { font-size: 12pt;
 			margin: 0px; 
 			padding: 50px; 
 			border: none; 
-			text-align: left; }
+			text-align: justify; }
 .courseno, .coursename { text-align: center; }
 		
 	
